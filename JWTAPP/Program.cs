@@ -1,5 +1,6 @@
 using JWTAPP.Helpers;
 using JWTAPP.Models;
+using JWTAPP.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;

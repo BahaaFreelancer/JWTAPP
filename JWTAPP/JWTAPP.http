@@ -3,4 +3,7 @@
 GET {{JWTAPP_HostAddress}}/weatherforecast/
 Accept: application/json
 
+
+POST {{JWTAPP_HostAddress}}/api/Auth/RegisterAsync/
+Accept: application/json
 ###

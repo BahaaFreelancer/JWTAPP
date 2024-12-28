@@ -1,4 +1,6 @@
-﻿namespace JWTAPP.Models
+﻿using JWTAPP.Models;
+
+namespace JWTAPP.Services
 {
     public interface IAuthService
     {
